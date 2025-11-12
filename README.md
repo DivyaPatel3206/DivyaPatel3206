@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DivyaPatel3206
-- 👀 I’m interested in IOT,AI AND EMBEDDED SYSTEMS
-- 🌱 I’m currently learning TENSFLOW
-- 💞️ I’m looking to collaborate on PURGON -SMART WASTE OPS SYSTEM
+  
+- 🌱 I’m currently learning TENSORFLOW
 - 📫 How to reach me
 - CONTACT 8140636493
 - 😄 Pronouns: ...
